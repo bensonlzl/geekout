@@ -68,7 +68,7 @@ section .container {
 }
 
 .nav {
-  background: #3d4c60;
+  background: red;
   color: white;
 }
 
@@ -80,4 +80,9 @@ section .container {
   border-top: 1px solid #e3e5ec;
   background: #f9f9f9;
   color: #3d4c60;
+}
+
+.mast{
+    background: grey;
+    padding-left: 16px;
 }
